@@ -2,9 +2,9 @@
   "name": "eliption-support",
   "version": "0.0.1",
   "description": "",
-  "main": "app.js",
+  "main": "bot.js",
   "scripts": {
-    "test": "node app.js"
+    "test": "node bot.js"
   },
   "author": "Koyu",
   "license": "ISC"
