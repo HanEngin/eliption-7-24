@@ -91,4 +91,4 @@ var oyun = [
         client.user.setGame(oyun[random], "https://www.twitch.tv/koyu_han");
       }, 2 * 10800);
 
-client.login('nabacan');
+client.login(process.env.BOT_TOKEN);
