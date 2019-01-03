@@ -91,4 +91,4 @@ var oyun = [
         client.user.setGame(oyun[random], "https://www.twitch.tv/koyu_han");
       }, 2 * 10800);
 
-client.login('NTI5NzEwOTM3NTQwNzg4MjI3.Dw1p4A.XB8zWTAKtv6E9o9_2lAZKWtswZU');
+client.login('nabacan');
