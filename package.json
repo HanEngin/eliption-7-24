@@ -1,0 +1,11 @@
+{
+  "name": "eliption-support",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "Koyu",
+  "license": "ISC"
+}
